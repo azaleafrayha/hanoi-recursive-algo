@@ -7,6 +7,7 @@ This repository will contain a Python implementation of the classic Tower of Han
 * figuring `2**n-1` formula
 * Made `move` func
 * Learnt `modulo`
+* Stacking the discs based on Hanoi rules
 <br><br>
 
 NOTE = STILL A LOT OF WORK TO DO :( <br>
