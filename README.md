@@ -11,4 +11,4 @@ This repository will contain a Python implementation of the classic Tower of Han
 <br><br>
 
 NOTE! <br>
-I got school assignments with tight deadlines, this project will probably take longer than usual to complete, but I'll try my best to finish it as fast as I could.
+Sadly I have school assignments with tight deadlines, so this project will probably take longer than usual to complete.
