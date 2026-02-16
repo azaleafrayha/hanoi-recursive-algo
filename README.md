@@ -10,5 +10,5 @@ This repository will contain a Python implementation of the classic Tower of Han
 * Stacking the discs based on Hanoi rules
 <br><br>
 
-NOTE = STILL A LOT OF WORK TO DO :( <br>
-I got school assignments with tight deadlines, this project will probably take longer than usual to complete but I'll try my best to get it down quickly.
+NOTE! <br>
+I got school assignments with tight deadlines, this project will probably take longer than usual to complete, but I'll try my best to finish it as fast as I could.
