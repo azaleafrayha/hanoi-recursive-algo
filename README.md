@@ -10,6 +10,3 @@ This repository will contain a Python implementation of the classic Tower of Han
 * Made `move()` and `make_allowed_move()`
 * Learnt `modulo`
 <br><br>
-
-
-*this project will probably take longer than usual to complete because i have tight school deadlines :(*
