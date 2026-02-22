@@ -6,7 +6,7 @@ I am currently working on this project as part of my learning journey with Pytho
 This repository will contain a Python implementation of the classic Tower of Hanoi puzzle. The project focuses on solving the puzzle using `Recursive Algorithms` and managing the game state using Python's core data structures.
 
 ## Current Progress
-* figuring `2**n-1` formula
+* Figuring `2**n-1` formula
 * Made `move()` and `make_allowed_move()`
 * Learnt `modulo`
 <br><br>
