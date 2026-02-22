@@ -8,5 +8,6 @@ This repository will contain a Python implementation of the classic Tower of Han
 ## Current Progress
 * Figuring `2**n-1` formula
 * Made `move()` and `make_allowed_move()`
+* Figuring how the rods/disks work
 * Learnt `modulo`
 <br><br>
