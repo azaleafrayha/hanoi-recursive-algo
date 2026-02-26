@@ -1,5 +1,5 @@
 # Tower of Hanoi Puzzle (WIP)
-I am currently working on this project as part of my learning journey with Python and Algorithms that is based on freeCodeCamp Scientific Computing with Python curriculum. <br> *The code is still in progress and will be edited a lot!*
+I am currently working on this project as part of my learning journey with Python and Algorithms that is based on freeCodeCamp Scientific Computing with Python curriculum. <br><br> *The code is still in progress and will be edited a lot!*
 
 -------
 
