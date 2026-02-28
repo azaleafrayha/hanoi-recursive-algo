@@ -8,4 +8,5 @@ This repository will contain a Python implementation of the classic Tower of Han
 * Made `move()` and `make_allowed_move()`
 * Figuring how the rods/disks work
 * Learnt `modulo`
+* Figuring odd and even numbers
 <br><br>
