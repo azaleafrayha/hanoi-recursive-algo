@@ -1,4 +1,4 @@
-NUMBER_OF_DISKS = 5
+NUMBER_OF_DISKS = int(input('Enter the number of disks: '))
 A = list(range(NUMBER_OF_DISKS, 0, -1))
 B = []
 C = []
