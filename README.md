@@ -1,5 +1,5 @@
 # Tower of Hanoi Puzzle 
-The Tower of Hanoi is a mathematical puzzle where you have three rods and a number of disks of different sizes. <br> The objective is to move the entire stack from the source rod to the target rod, following these rules:
+The Tower of Hanoi is a mathematical puzzle where you have three rods and a number of disks of different sizes. <br><br> The objective is to move the entire stack from the source rod to the target rod, following these rules:
 1. Only one disk can be moved at a time.
 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack.
 3. No disk may be placed on top of a smaller disk.
